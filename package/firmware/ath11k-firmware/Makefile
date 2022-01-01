@@ -3,7 +3,7 @@
 #
 # This is free software, licensed under the GNU General Public License v2.
 # See /LICENSE for more information.
-#
+# añadido nueva version firmware wifi 2.5.0.1/WLAN.HK.2.5.0.1-01201-QCAHKSWPL_SILICONZ
 
 include $(TOPDIR)/rules.mk
 
